@@ -2,3 +2,5 @@ emotion_model.pkl
 *.pyc
 __pycache__
 img-uploads
+age.pkl
+filename.pkl
